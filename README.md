@@ -13,9 +13,8 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 ![输入图片说明](src/main/resources/img/3.png)
 
 编辑模板
-![输入图片说明](src/main/resources/img/4.png)
 
-示例`{{riqi.DATA}} {{beizhu.DATA}} 天气：{{tianqi.DATA}} 最低气温：{{low.DATA}}度 最高气温：{{high.DATA}}度 今天是我们恋爱的第{{lianai.DATA}}天 距离小璐的生日还有{{shengri.DATA}}天 {{caihongpi.DATA}} {{jinju.DATA}}`
+示例`{{riqi.DATA}} {{beizhu.DATA}} 天气：{{tianqi.DATA}} 最低气温：{{low.DATA}}度 最高气温：{{high.DATA}}度 今天是我们恋爱的第{{lianai.DATA}}天 距离??的生日还有{{shengri.DATA}}天 {{caihongpi.DATA}} {{jinju.DATA}}`
 
 2.spring boot 开发，对接第三方
 过于简单，不予展示
